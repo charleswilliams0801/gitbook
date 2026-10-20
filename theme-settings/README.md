@@ -1,0 +1,7 @@
+---
+icon: palette
+---
+
+# Theme Settings
+
+***

@@ -1,0 +1,7 @@
+---
+icon: grip-lines
+---
+
+# Footer
+
+***
